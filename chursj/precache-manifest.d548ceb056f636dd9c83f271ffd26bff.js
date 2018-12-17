@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/chursj/static/js/runtime~main.d9c9f2d5.js"
   },
   {
-    "revision": "99e0213f6e31165e3e5f",
-    "url": "/chursj/static/js/main.99e0213f.chunk.js"
+    "revision": "2df273dee34c2cbf9e1f",
+    "url": "/chursj/static/js/main.2df273de.chunk.js"
   },
   {
     "revision": "842adfcf14e83c4f6885",
     "url": "/chursj/static/js/1.842adfcf.chunk.js"
   },
   {
-    "revision": "99e0213f6e31165e3e5f",
+    "revision": "2df273dee34c2cbf9e1f",
     "url": "/chursj/static/css/main.416461fc.chunk.css"
   },
   {
-    "revision": "9ad6e8490e8fa7c2b868f28068a228ea",
+    "revision": "9c8ac75212bb14f98eb445acdeb5962a",
     "url": "/chursj/index.html"
   }
 ];
